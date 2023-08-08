@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate developer from the Earth</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keykey03&label=Profile%20views&color=0e75b6&style=flat" alt="keykey03" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=keykey03&label=Profile%20views&color=0e75b6&style=flat" alt="keykey03" /> </p>-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keykey03" alt="keykey03" /></a> </p>
 
